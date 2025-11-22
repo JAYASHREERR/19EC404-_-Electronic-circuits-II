@@ -14,19 +14,20 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+<img width="873" height="1280" alt="image" src="https://github.com/user-attachments/assets/1906ae6c-4d60-4de4-9cf0-c61e2946a653" />
+
 
 # Graph
+<img width="1280" height="472" alt="image" src="https://github.com/user-attachments/assets/c23e0432-b40b-4e76-a903-3a156d8b76c1" />
 
 
 # Sample images 
+![3 a Exp](https://github.com/user-attachments/assets/72037f51-b04b-41fa-be91-88fcf405651c)
 
 
 # Result
 
 Thus, the **HARTLEY OSCILLATOR** was designed for the given frequency.
 
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
+- **(i) Theoretical Frequency:**  625
+- **(ii) Practical Frequency:**    650
